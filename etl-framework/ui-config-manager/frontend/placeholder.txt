@@ -1,0 +1,2 @@
+This is a placeholder file to ensure the directory is created.
+Actual frontend setup will be more complex later with package.json etc.
